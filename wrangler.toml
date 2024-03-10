@@ -1,4 +1,0 @@
-name = "AnimeDexApi"
-workers_dev = true
-build = { command = "npm run build", upload = "dist" }
-compatibility_mode = "none"
